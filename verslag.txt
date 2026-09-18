@@ -1,3 +1,4 @@
 "Ik doe mijn tweede jaar applicatie en databeheer." 
 "Ik hou van gamen en met vrienden afspreken" 
 "Ik weet nog niet wat ik in de toekomst ga doen" 
+"test2" 
