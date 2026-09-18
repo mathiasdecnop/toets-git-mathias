@@ -1,4 +1,8 @@
 "Ik doe mijn tweede jaar applicatie en databeheer." 
 "Ik hou van gamen en met vrienden afspreken" 
 "Ik weet nog niet wat ik in de toekomst ga doen" 
+<<<<<<< HEAD
 "test2" 
+=======
+"test" 
+>>>>>>> wijziging-a
